@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGQBztndHlxrcUaW7YCylIalE71sU54egofdZI/kCRTHVYdyQ4S2Pd7QDWO3O8gwhyuhlgZcc2npvaB+LSG6Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pranjay\\source\\repos\\DatStreamingKafka\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pranjay\\.nuget\\packages\\confluent.kafka\\1.4.4\\confluent.kafka.1.4.4.nupkg.sha512",
+    "C:\\Users\\Pranjay\\.nuget\\packages\\librdkafka.redist\\1.4.4\\librdkafka.redist.1.4.4.nupkg.sha512",
+    "C:\\Users\\Pranjay\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pranjay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

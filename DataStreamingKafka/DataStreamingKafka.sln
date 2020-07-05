@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatStreamingKafka", "DatStreamingKafka\DatStreamingKafka.csproj", "{284523DC-CF06-4C58-9603-7AF43E2F2E28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer", "Consumer\Consumer.csproj", "{B908ADF3-4738-43B2-BF12-D6A77709B323}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamingProducer", "StreamingProducer\StreamingProducer.csproj", "{1ED8EA80-7262-4E36-8B9A-431BB6EA1583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284523DC-CF06-4C58-9603-7AF43E2F2E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284523DC-CF06-4C58-9603-7AF43E2F2E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284523DC-CF06-4C58-9603-7AF43E2F2E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284523DC-CF06-4C58-9603-7AF43E2F2E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B908ADF3-4738-43B2-BF12-D6A77709B323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B908ADF3-4738-43B2-BF12-D6A77709B323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B908ADF3-4738-43B2-BF12-D6A77709B323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B908ADF3-4738-43B2-BF12-D6A77709B323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED8EA80-7262-4E36-8B9A-431BB6EA1583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED8EA80-7262-4E36-8B9A-431BB6EA1583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED8EA80-7262-4E36-8B9A-431BB6EA1583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED8EA80-7262-4E36-8B9A-431BB6EA1583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CFDD32-BCF7-45CC-948D-7847E4E42B9D}
+	EndGlobalSection
+EndGlobal
